@@ -1,0 +1,19 @@
+{
+  "name": "js-backend-project",
+  "version": "1.0.0",
+  "description": "This is a backend project built using MERN stack for an application quite similar in nature to youtube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Mongoose",
+    "Backend"
+  ],
+  "author": "Asees",
+  "license": "ISC"
+}
